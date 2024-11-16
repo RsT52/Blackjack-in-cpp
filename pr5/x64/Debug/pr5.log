@@ -1,7 +1,7 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (pr5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
   Blackjack.cpp
-C:\Users\Администратор1\source\repos\Blackjack\pr5\Blackjack.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Администратор1\source\repos\Blackjack\pr5\Blackjack.cpp(124,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-  pr5.vcxproj -> C:\Users\Администратор1\source\repos\Blackjack\x64\Debug\Blackjack.exe
+C:\Users\Администратор1\Desktop\Blackjack\pr5\Blackjack.cpp(69,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Администратор1\Desktop\Blackjack\pr5\Blackjack.cpp(125,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  pr5.vcxproj -> C:\Users\Администратор1\Desktop\Blackjack\x64\Debug\Blackjack.exe
   "pwsh.exe" не является внутренней или внешней
   командой, исполняемой программой или пакетным файлом.

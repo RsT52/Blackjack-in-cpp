@@ -7,6 +7,7 @@
 
 using namespace std;
 
+//Создание класса карт
 class Card
 {
     int power;
